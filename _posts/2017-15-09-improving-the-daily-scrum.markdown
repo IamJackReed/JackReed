@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Improving The Daily Scrum"
-date:   2017-09-15 15:00:00
+date:   2017-15-09 15:00:00
 categories:
 tags:
-image: /assets/article_images/2017-09-15-daily-scrum/daily-scrum.jpg
-image2: /assets/article_images/2017-09-15-daily-scrum/daily-scrum-mobile.jpg
+image: /assets/article_images/2017-15-09-daily-scrum/daily-scrum.jpg
+image2: /assets/article_images/2017-15-09-daily-scrum/daily-scrum-mobile.jpg
 ---
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 There was once a scrum team, who worked well together, they were always looking out for ways to improve the way they work. Everyday they'd get together and have their daily scrum. One day the question got asked "Can we improve our daily scrum?". Because of that, during their retrospective they started to brainstorm ideas to come up with ways they could improve. They soon started trying some of those ideas, some worked well, some didn't. We can all learn from our own mistakes, and from others - and so I've decided to write and share some of my views, and experiences (good and bad), along with going over other common problems that can occur with the daily scrum, and adding in some unsolicited (but hopefully useful) advice based on what I, and the teams that I have worked with have found to be useful.</span>
