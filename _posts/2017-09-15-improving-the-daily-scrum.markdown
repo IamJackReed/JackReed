@@ -8,7 +8,7 @@ image: /assets/article_images/2017-09-15-improving-the-daily-scrum/improving-the
 image2: /assets/article_images/2017-09-15-improving-the-daily-scrum/improving-the-daily-scrum-mobile.JPG
 ---
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">
-Software development can be tricky, agile methodologies can often be used to help make the whole delivery process easier. However, even when using one of the most popular lightweight frameworks such as scrum, despite it's simplicity, it can still present it's fair share of challenges -  and so I've decided to write and share some of my views, and experiences (good and bad), along with going over other common problems that can occur with the daily scrum, and adding in some unsolicited (but hopefully useful) advice based on what I, and the teams that I have worked with have found to be useful.</span>
+Software development can be tricky, agile methodologies can often be used to help make the whole delivery process easier. However, even when using one of the most popular lightweight frameworks such as scrum, despite it's simplicity, it can still present it's fair share of challenges -  and so I've decided to write and share some of my views, and experiences (good and bad), along with going over other common problems that can occur with the daily scrum, adding in some unsolicited (but hopefully useful) advice based on what has worked well for myself, and for the teams that I have worked with..</span>
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">Let's jump straight in and look at some examples:</span>
 
