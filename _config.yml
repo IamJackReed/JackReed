@@ -22,7 +22,7 @@ author_image: "/assets/images/author.png"
 
 paginate:	5
 
-url: "https://iamjackreed.github.io/TEST" # the base hostname & protocol for your site
+url: "http://jackreed.eu" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 twitter_handle: '@jackrossreed'
