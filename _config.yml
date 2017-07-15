@@ -30,7 +30,7 @@ twitter_handle: '@jackrossreed'
 #fill in disqus shortname to use disqus
 disqus: jackreed
     
-#google_analytics: UA-102590639-1
+google_analytics: UA-102590639-1
 
 # social icons and sharing options
 social:
