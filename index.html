@@ -40,7 +40,7 @@ layout: default
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
             <section class="post-excerpt" itemprop="description">
-              <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.content | strip_html | truncatewords: 50 }}</a></p>
+              <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
               <time datetime="{{ post.date | date_to_long_string }}">{{ post.date | date_to_long_string }}</time>
@@ -61,7 +61,7 @@ layout: default
             <header class="post-header">
               <h2 class="post-title" itemprop="name"><a href="{{ post.url | prepend: site.baseurl }}" itemprop="url">{{ post.title }}</a></h2>
             </header>
-            <section class="post-excerpt" itemprop="description">
+            <section class="post-excerpt" herf="{{ post.url | prepend: site.baseurl }}" itemprop="description">
               <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
             </section>
             <div class="post-meta">
