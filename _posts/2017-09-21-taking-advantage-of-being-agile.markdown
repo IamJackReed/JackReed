@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Taking Advantage of Being Agile"
+title:  <span style="color:#00000;>"Taking Advantage of Being Agile"</span>
 date: 2017-09-21 18:30:00
 categories:
 tags:
