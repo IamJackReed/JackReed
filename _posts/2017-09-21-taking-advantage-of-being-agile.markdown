@@ -18,7 +18,7 @@ image2: /assets/article_images/2017-09-21-taking-advantage-of-being-agile/taking
 # Change is Inevitable
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Most, if not all projects have their good and nasty surprises throughout their life-cycles, this can make delivering projects exciting, challenging and rewarding. But, that can often depend on how well 'change' can be dealt with.
 Change is inevitable, in fact any project, in itself is just a mechanism to introduce change in some way or another.
-One of the twelve agile manifesto principles states _'Accommodate changing requirements throughout the development process'_, I don't think that this statement is necessarily solely referring to the change requirements related to the product or service. I think it also includes the changes that get introduced that improve the way we work, this often comes from the outcome of a Sprint Retrospective (or at least should be!), or through regularly reflecting on progress. Being able to welcome change when it occurs, helps enable the ability to be adaptable when it counts. </span>
+One of the twelve agile manifesto principles states _'Accommodate changing requirements throughout the development process'_, I don't think that this statement is necessarily solely referring to the change requirements related to the product or service. I think it also includes the changes that get introduced that improve the way we work, this often comes from the outcome of a Sprint Retrospective (or at least it should be!), or through regularly reflecting on progress. Being able to welcome change when it occurs, helps enable the ability to be adaptable when it counts. </span>
 
 
 # Where to Focus
