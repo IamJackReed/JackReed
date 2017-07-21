@@ -37,3 +37,6 @@ One of the twelve agile manifesto principles states _'Accommodate changing requi
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Thanks for making it this far. If you have read this and found any of it useful at all, or know someone that might? Then feel free to share.</span>
+
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
+Do you agree with any of it? Do you have any of your own tips, or experiences with taking advantage of being agile? Share your thoughts, let me know in the comments below.</span>
