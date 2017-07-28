@@ -38,7 +38,7 @@ Just to end with a few thoughts to keep in mind, when it comes to thinking about
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Iterate on the feedback from between the customers and end users, whilst keeping the loop short, regular and consistent.<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-To read more about how agile can help towards keeping up with the high levels of expectancies, and how to deliver better quality products faster - check out '_Taking Advantage of Being Agile_'.<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
+To read more about how agile can help towards keeping up with the high levels of expectancies, and how to deliver better quality products faster - check out [Taking Advantage of Being Agile](http://jackreed.eu/2017/07/21/taking-advantage-of-being-agile.html).<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Thanks for making it this far. If you have read this and found any of it useful at all, or know someone that might? Then feel free to share.</span>
