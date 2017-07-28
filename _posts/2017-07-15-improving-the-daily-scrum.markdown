@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Improving the Daily Scrum"
-date:   2017-09-15 15:00:00
+date:   2017-07-15 15:00:00
 categories:  
 tags: 
 image: /assets/article_images/2017-09-15-improving-the-daily-scrum/improving-the-daily-scrum.JPG
