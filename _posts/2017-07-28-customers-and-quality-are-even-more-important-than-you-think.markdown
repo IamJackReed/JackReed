@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Customers & Quality | Even More Important Than You Think"
+title:  "Customers & Quality Are Even More Important Than You Think"
 date: 2017-07-28 20:33:00
 categories:
 tags:
