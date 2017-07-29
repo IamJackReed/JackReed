@@ -29,13 +29,13 @@ image2: /assets/article_images/2017-07-28-customers-and-quality-are-even-more-im
 
 # Conclusion
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-Just to end with a few thoughts about quality in software:<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
+Just to end with a few thoughts about quality:<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Quality shouldn't be an afterthought, think about quality from the get go. It should be getting baked in, not stuck on at the end.<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Never comprise on quality thinking it will save time, it always catches you up.<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">When Iterate on feedback from the customers and end users, whilst keeping the feedback loop short, regular and consistent.<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;"> Don't just iterate on the feedback from the customers and end users, remember to keep the feedback loop short, regular and consistent. It's no good providing the RIGHT solution at the WRONG time.<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 To read more about how agile can help towards keeping up with the high levels of expectancies, and how to deliver better quality products faster - check out [Taking Advantage of Being Agile](http://jackreed.eu/2017/07/21/taking-advantage-of-being-agile.html).<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
