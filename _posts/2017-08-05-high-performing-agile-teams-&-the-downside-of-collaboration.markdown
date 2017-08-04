@@ -4,8 +4,9 @@ title:  "High Performing Agile Teams & The Downside of Collaboration"
 date: 2017-08-05 00:09:00
 categories:
 tags:
-image: /assets/article_images/.JPG
-image2: /assets/article_images/-mobile.JPG 
+image: /assets/article_images/2017-08-05-high-performing-agile-teams-&-the-downside-of-collaboration/high-performing-agile-teams-&-the-downside-of-collaboration.JPG
+image2: /assets/article_images/2017-08-05-high-performing-agile-teams-&-the-downside-of-collaboration/high-performing-agile-teams-&-the-downside-of-collaboration-mobile.JPG
+---
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Firstly, the journey in building a high performing agile team relies on many things, and isn't something that turns out well when it is rushed. It depends on many influencing factors, some of those being: Skills and abilities, attitudes and mindsets, good processes coupled with the right guidance etc. And there can be outside influences that can act as opposing factors, such as: Company culture, other areas of the business that may not be aligned with agile methods. There may also be a strong PMO, or governance that impact on how agile is being adopted. This is especially noticeable if an organisation works within a regulated industry, as there may be many bureaucracy hoops that need to be jumped through in order to maintain compliance.
 
