@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "High Performing Agile Teams & The Downside of Collaboration"
+title:  "High Performing Agile Teams & the Downside of Collaboration"
 date: 2017-08-05 00:09:00
 categories:
 tags:
