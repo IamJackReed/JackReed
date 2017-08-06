@@ -22,7 +22,9 @@ image2: /assets/article_images/2017-08-05-high-performing-agile-teams-&-the-down
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">If regular conflicts is an issue, then I'd strongly suggest that you bring this awareness to the team, and/or organisation that so that a better communication strategy can be followed. I'd also start listening more, not just when being spoken to directly, but also how the team are speaking with each another, then you'll start noticing signs of stress patterns when they occur. If it does happen, then the focus should be on who is speaking, evaluate the situation, see how they're expressing themselves, and consider possible reasons as to why they're showing signs of stress. It usually comes down to the context of the conversation with at least one of the three reasons below, or a combination of the three:
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">• High levels of emotional attachment
+
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">• Strong opposing opinions
+
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">• High level of risk involved
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Pay attention to body language and the tones of voices being used, are they uncomfortable, relaxed, angry, upset, excited?
