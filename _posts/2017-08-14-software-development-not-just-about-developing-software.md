@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Software Development | Not Just About Developing Software"
-date: 2017-07-28 20:33:00
+date: 2017-08-14 07:50:00
 categories:
 tags:
-image: /assets/article_images/2017-07-28-customers-and-quality-are-even-more-important-than-you-think/customers-and-quality-are-even-more-important-than-you-think.JPG
-image2: /assets/article_images/2017-07-28-customers-and-quality-are-even-more-important-than-you-think/customers-and-quality-are-even-more-important-than-you-think-mobile.JPG
+image: /assets/article_images/2017-08-14-software-development-not-just-about-developing-software/software-development-not-just-about-developing-software.JPG
+image2: /assets/article_images/2017-08-14-software-development-not-just-about-developing-software/software-development-not-just-about-developing-software-mobile.JPG
 ---
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Software development, is not just about developing software, or at least it shouldn't be. The reason I say this is that software development tends to have a lot of focus on output, and when I say the word ‘output’, I'm talking about 'velocity' (the amount of work getting done over time), deliverables, requirements etc. All of the outputs from development. And you may hear things like delivering shippable software fast is good, and that having a consistent velocity is great. But be careful, you don't want to start thinking that the sole aim is to just get requirements from the end user, so that the quicker you can design, build, test and ship those requirements. Unfortunately, there is (or at least there should be) a little more to it than that. It's the feedback that is useful, not just collecting requirements for the sake of it. Successful software is ultimately determined not by outputs, or how quick they can be delivered, but by the outcomes and impact they cause.
 
