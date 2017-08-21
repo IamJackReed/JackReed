@@ -23,4 +23,4 @@ image2: /assets/article_images/2017-08-14-software-development-not-just-about-de
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">As always, thanks for making it this far. If you have read this and found any of it useful at all, or know someone that might? Then feel free to share.
 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Do you agree with any of it? Do you have any of your own tips, or experiences with deliverying better software solutions? Share your thoughts, let me know in the comments below.
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Do you agree with any of it? Do you have any of your own tips, or experiences with delivering better software solutions? Share your thoughts, let me know in the comments below.
