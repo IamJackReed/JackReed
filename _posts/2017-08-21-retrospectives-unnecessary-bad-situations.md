@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Retrospectives | Unnecessary Bad Situations"
+title:  "Retrospectives | Avoiding Bad Situations"
 date: 2017-08-21 17:00:00
 categories:
 tags:
-image: /assets/article_images/2017-08-21-retrospectives-unnecessary-bad-situations/retrospectives-unnecessary-bad-situations.JPG
-image2: /assets/article_images/2017-08-21-retrospectives-unnecessary-bad-situations/retrospectives-unnecessary-bad-situations-mobile.JPG
+image: /assets/article_images/2017-08-21-retrospectives-avoiding-bad-situations/retrospectives-unnecessary-bad-situations.JPG
+image2: /assets/article_images/2017-08-21-retrospectives-avoiding-bad-situations/retrospectives-unnecessary-bad-situations-mobile.JPG
 ---
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Despite having a contingency plan there are still so many ways in which a sprint, or in fact an entire project can fail. In many cases knowing what to do given a certain situation will usually keep things under control. However, since contingency plans are only ever based on our knowledge that we have at the time, then occasionally problems will occur.
