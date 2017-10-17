@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Retrospectives | Ideas For Change"
+title:  "Retrospectives & Ideas For Change"
 date: 2017-08-21 17:00:00
 categories:
 tags:
