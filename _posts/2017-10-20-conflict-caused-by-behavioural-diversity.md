@@ -23,7 +23,6 @@ image2: /assets/article_images/2017-10-20-conflict-caused-by-behavioural-diversi
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Hesitation in suggesting new ideas
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Delay in informing others of information
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Dips in productivity
-- <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Domain specific silos
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Increased stress and anxiety among individuals
 ## Assessing Behaviour & Personality Types
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">There are many models that can be used to identify behaviour and personality types, organisations as well as some agile teams, often utilise these models for recruitment, team member/employee evaluations, and even for further career development purposes. Some of the most commonly used models include:
