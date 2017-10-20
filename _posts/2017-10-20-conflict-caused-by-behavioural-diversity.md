@@ -16,10 +16,9 @@ image2: /assets/article_images/2017-10-20-conflict-caused-by-behavioural-diversi
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Create an environment suitable for the free flow of meaning (conversation)
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Broaden the discussions to a wider audience by effectively engaging others
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Enhance team cohesiveness
-- <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Consideration of a broader range of ideas, resulting in a better, stronger idea
-Surfacing of assumptions that may be inaccurate
-Increased participation and creativity
-Clarification of individual views that build learning
+- <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Consideration of a broader range of ideas
+- <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Surfacing of assumptions that might not be correct
+
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Most conflicts that occur in an agile team tend to be resolved with a positive outcome, but there is a chance that conflict has a negative outcome. Some examples of negative outcomes might lead to:
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Lack of engagement with each other
