@@ -28,16 +28,16 @@ image2: /assets/article_images/2017-10-20-conflict-caused-by-behavioural-diversi
 
 ## Assessing Behaviour & Personality Types
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">There are many models that can be used to identify behaviour and personality types, organisations as well as some agile teams, often utilise these models for recruitment, team member/employee evaluations, and even for further career development purposes. Some of the most commonly used models include:
-- **MBTI Myer-Briggs Type Indicator**
+### MBTI Myer-Briggs Type Indicator
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 MBTI is definitely one of the most popular personality assessments. Created by 'Katherine Briggs' and daughter 'Isabel Myers'. It's based on Carl Jung's idea that people understood the world through: sensation, intuition, feeling and thinking.
-- **DISC Assessment**
+### DISC Assessment
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 This one is based on the ideas of 'William Marston' and 'Walter Clarke', it evaluates behaviour. Identifying the traits of: dominance, inducement, submission, and compliance.
-- **Holtzman Inkblot Technique**
+### Holtzman Inkblot Technique
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Assesses the personalities with the use of ink blots, and specific criteria such as: rejection, reaction time, place, and space.
-- **PCM Process Communication Model**
+### PCM Process Communication Model
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Originally developed by NASA, utilised to assess and screen their astronauts. It identifies personal strengths by grouping people into six personality types: harmonisers, thinkers, rebels, imagineers, persisters, or promoters.
 
