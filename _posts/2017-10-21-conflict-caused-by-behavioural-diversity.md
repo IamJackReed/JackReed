@@ -4,8 +4,8 @@ title:  "Conflict Caused By Behavioural Diversity"
 date: 2017-10-21 14:00:00
 categories:
 tags:
-image: /assets/article_images/2017-10-20-conflict-caused-by-behavioural-diversity/conflict-image.JPG
-image2: /assets/article_images/2017-10-20-conflict-caused-by-behavioural-diversity/conflict-image-mobile.JPG
+image: /assets/article_images/2017-10-21-conflict-caused-by-behavioural-diversity/conflict-image.JPG
+image2: /assets/article_images/2017-10-21-conflict-caused-by-behavioural-diversity/conflict-image-mobile.JPG
 ---
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 One of the most important aspects of an effective agile team, I think, isn't having to deal with the typical constraints; scope, costs, quality, or even time. Instead, I'd have to say by far one of most important aspects to consider, is often 'us', the people, the team members themselves. More specifically, how we behave and communicate with one another - if behavioural diversity can cause conflict, then is 'conflict' even all that bad? Do 'behaviour' and 'personality type' assessments really help us gauge an understanding of ourselves and others? Is understanding human social behaviour straight forward?
