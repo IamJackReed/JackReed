@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conflict Caused By Behavioural Diversity"
-date: 2017-10-20 20:00:00
+date: 2017-10-21 14:00:00
 categories:
 tags:
 image: /assets/article_images/2017-10-20-conflict-caused-by-behavioural-diversity/conflict-image.JPG
