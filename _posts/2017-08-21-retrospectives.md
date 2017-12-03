@@ -8,7 +8,7 @@ image: /assets/article_images/2017-08-21-retrospectives/retrospectives.JPG
 image2: /assets/article_images/2017-08-21-retrospectives/retrospectives-mobile.JPG
 ---
 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Just a few important factors that you might want to consider during your next retrospective:
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Just a few things to ponder on during your next retrospective..
 
 # Better Questions
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Progress usually starts with asking questions, questions that lead to a better understanding: '_What went well in the last Sprint?_', '_Was the expected work completed, if not why?_' or if it was a failed sprint the team might be keen to ask '_How did this happen?_', '_How can we stop this from happening again?_', '_How can we improve?_'. All these types of questions play a key part in convincing ourselves, and others to consider change. It's important to review quantitative and qualitative data, I think the use of Agile metrics deserves it's own post so I'll stay focused non-numerical data for now. I believe the best place to start and first thing to consider, be genuinely interested and listen to others when they respond to a question, as this shows mutual respect, and can help towards creating a safe environment for conversation.
