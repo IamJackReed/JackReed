@@ -4,8 +4,8 @@ title:  "Retrospectives | Convincing Ourselves & Others To Consider Change"
 date: 2017-08-21 17:00:00
 categories:
 tags:
-image: /assets/article_images/2017-08-21-retrospectives-ideas-for-change/retrospectives-ideas-for-change.JPG
-image2: /assets/article_images/2017-08-21-retrospectives-ideas-for-change/retrospectives-ideas-for-change-mobile.JPG
+image: /assets/article_images/2017-08-21-retrospectives/retrospectives.JPG
+image2: /assets/article_images/2017-08-21-retrospectives/retrospectives-mobile.JPG
 ---
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Just a few important factors that you might want to consider during your next retrospective:
