@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <center>About Me</center>
+title: About Me
 permalink: /about-me/
 image: /assets/images/about-me-profile.png
 ---
