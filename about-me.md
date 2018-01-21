@@ -2,6 +2,7 @@
 layout: page
 title: <center>About Me</center>
 permalink: /about-me/
+author image: /assets/images/about-me-profile.png
 ---
 
 <p style="text-align:center;"><img src="/assets/images/about-me-profile.png"></p>
