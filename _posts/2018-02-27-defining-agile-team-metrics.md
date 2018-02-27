@@ -105,7 +105,8 @@ What are the associated costs In gathering metrics? It may be difficult to answe
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Meaning that the metrics used should be chosen by the team for team, and if additional metrics on a organisation level are required, then there should be a separation, or at least an agreement in what that is exactly. I mean, nothing wrong with showing off your metrics externally, it might even start a conversation with people outside the team!?! Just be cautious of any stakeholders wanting to utilise any of the team metrics without fully understanding the context behind them.
 
-_Managers who don't know how to measure what they want settle for wanting what they can measure._- **Russell L. Ackoff**
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
+_'Managers who don't know how to measure what they want settle for wanting what they can measure.'_- **Russell L. Ackoff**
 
 ## Actionable
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
@@ -115,6 +116,7 @@ An effective metric should be specific enough and not just document the current 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 There wouldn't be much point in relying on data output from a system, if the input data wasn't true or accurate. I've found that it can be useful for a team to discuss and agree on how exactly they intend to input data into each of their systems, and then make it part of their team working agreements. That way they can hold each other accountable for any deviation. Sometimes you can't always measure what you want (true metric), so you settle for what you can measure (proxy metric), the important thing is to understand the two. Imagine an organisation that wanted to increase their online presence and be popular across all their social media channels. One metric could be to measure how many followers they get. But it wouldn't be a true metric if a click farm was used to obtain all those followers. The take away from this is to be aware of what is it exactly that you're measuring, and the impact of might occur as a result of choosing it as a metric.
 
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 '_Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes._'- **Charles Goodhart**, or in other words and more simply put by **Marilyn Strathern** '_When a measure becomes a target, it ceases to be a good measure._'
 
 # Conclusion
