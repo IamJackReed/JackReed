@@ -4,8 +4,8 @@ title:  "Agile Teams | Metrics & Experimenting"
 date: 2018-02-27 11:00:00
 categories:
 tags:
-image: /assets/article_images/2018-02-27-agile-teams-metrics-and-experimenting-image.JPG
-image2: /assets/article_images/2018-02-27-agile-teams-metrics-and-experimenting-image-mobile.JPG
+image: /assets/article_images/2018-02-27-agile-teams-metrics-and-experimenting/agile-metrics.jpg
+image2: /assets/article_images/2018-02-27-agile-teams-metrics-and-experimenting/agile-metrics-mobile.jpg
 ---
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Like it or not, there is a lot of data that get's generated throughout software development lifecycles. The metrics that get chosen by an agile team can be used to help them shed some light on what might be happening, it can be an interesting way for a team to learn more about their performance, and it forms part of an important aspect of experimentation.
