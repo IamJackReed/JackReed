@@ -65,7 +65,8 @@ Generally speaking there will be a whole list of different systems that are used
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Business Intelligence/Application Monitoring** (NewRelic, LogicMonitor, Datadog, AppsDynamics, BMC Software)
 
 <img src="/assets/images/team-system-data-collection.png" align="middle">
--
+
+
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Here are a few examples of how data for team might be used, it can look something like this: Data from each of these systems, on their own can answer simple questions around specific outputs.
 ## Questions Based On Outputs:
@@ -84,7 +85,8 @@ Here are a few examples of how data for team might be used, it can look somethin
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How good are our requirements?
 
 <img src="/assets/images/team-system-data-collection-questions.png" align="middle">
--
+
+
 ## Effective Metrics
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Defining an effective and useful metrics can be tricky, and what metrics might be useful for team might not necessarily always stay useful overtime. Here are a few important aspects that are properly worth considering when it comes to choosing and defining a metric:
