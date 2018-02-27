@@ -18,7 +18,7 @@ As _**Jeff Sutherland**_ has said '_Reduced mental capacity caused by multitaski
 Experimenting whilst things are going well might not seem all that necessary to most. Imagine if our focus was solely that 'sprint goal' and nothing else matters, and that goal was being accomplished by the team at the end of each sprint- what would be the problem with that? Well, always getting what we set out to achieve could be blinding us to perhaps an even higher possible accomplishment? Also, if we're getting nothing else but what we have set out to achieve, then what have we learnt? Can growing and learning be just as important as winning (accomplishing a sprint goal)? Isn't there value in knowledge acquisition? It is during retrospectives where the results from experiments and a teams recent performance can be analysed and discussed.
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-'_If you adopt only one agile practice, let it be retrospectives. Everything else will follow._- **Woody Zuill**
+'_If you adopt only one agile practice, let it be retrospectives. Everything else will follow.'_- **Woody Zuill**
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 For a software company that has teams with the odd certified ScrumMaster, Product Owner or a few Developers that are familiar with Kanban, Scrum, XP, Lean-Software.. a so called 'agile' team is far less valuable than a team of actual agile thinkers- ones that have an understanding of the principles behind agile and lean, that are empowered to question everything, and have the ability to experiment without the fear of failing.
