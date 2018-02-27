@@ -64,19 +64,14 @@ Generally speaking there will be a whole list of different systems that are used
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Deployment Tools** (CodeDeploy, Capistrano, AWS CodeDeploy, Octopus Deploy, Distelli)
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Business Intelligence/Application Monitoring** (NewRelic, LogicMonitor, Datadog, AppsDynamics, BMC Software)
 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-Data from each of these systems, on their own can answer simple questions around specific outputs. 
-
- - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How often are we getting working software to our target environment?
- - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How many known bugs are there?
- - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">What is our current velocity?
- - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we meeting our commitments?
- 
- ## Questions Based On Outputs:
+## Questions Based On Outputs:
   - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How often are we getting working software to our target environment?
  - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How many known bugs are there?
  - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">What is our current velocity?
  - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we meeting our commitments?
+ 
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
+Data from each of these systems, on their own can answer simple questions around specific outputs. 
 
 <img src="/assets/images/team-system-data-collection.png" align="middle">
 
