@@ -35,7 +35,7 @@ _'The way in which we're constructed neurophysiologically, we don't experience a
 
 ## What Are Useful Metrics?
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-The right choice of metrics to use depends on the team and context, so not all metrics are necessarily going to be useful- in fact, sometimes they can be dangerous. In terms of metrics at a team level, they can be used to measure anything that the team think is relevant in helping them identify improvements, as it can provide them with additional information on; their experiments, results from adjustments made in their behaviour, track their progress towards goals and can even help prepare for the future- it should really come down to what the team to find out what is useful.
+The right choice of metrics to use depends on the team and context, so not all metrics are necessarily going to be useful- in fact, sometimes they can be dangerous. In terms of metrics at a team level, they can be used to measure anything that the team think is relevant in helping them identify improvements, as it can provide them with additional information on; their experiments, results from adjustments made in their behaviour, track their progress towards goals and can even help prepare for the future- it should really come down to what the team find out to be useful.
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 _'Individuals can make a difference, but it takes a team to really mess things up.'_
@@ -87,7 +87,7 @@ Here are a few examples of how data for team might be used, it can look somethin
 
 ## Effective Metrics
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-Defining an effective and useful metrics can be tricky, and what metrics might be useful for team might not necessarily always stay useful overtime. Here are a few important aspects that are properly worth considering when it comes to choosing and defining a metric:
+Defining effective and useful metrics can be tricky, and what metrics that might be useful for a team might not necessarily always stay useful overtime. Here are a few important aspects that are proberly worth considering when it comes to choosing and defining a metric:
 
 ## Contrast
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
@@ -99,11 +99,11 @@ Using too many metrics will quickly over complicate things. Less can often be mo
 
 ## Affordable
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-What are the associated costs In gathering metrics? It may be difficult to answer this exactly without measuring it, as we could be referring to '_costs_', in terms of the amount work effort spent on gathering metric data, or '_costs_', could also derive from paid software tools, like the software that is actually gathering the data for us. Therefore, as a rule of thumb- would it be sensible to say that, the possible value of improvement that can be gained from a metric shouldn't exceed the costs of collecting it.
+What are the associated costs in gathering metrics? It may be difficult to answer this exactly without measuring it, as we could be referring to '_costs_', in terms of the amount work effort spent on gathering metric data, or '_costs_', could also derive from paid software tools, like the software that is actually gathering the data for us. Therefore, as a rule of thumb- would it be sensible to say that, the possible value of improvement that can be gained from a metric shouldn't exceed the costs of collecting it.
 
 ## Team Level
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-Meaning that the metrics used should be chosen by the team for team, and if additional metrics on a organisation level are required, then there should be a separation, or at least an agreement in what that is exactly. I mean, nothing wrong with showing off your metrics externally, who knows- the team and other people in the organisation might even start a mingling, sharing ideas and having deeper conversations around each others metrics?! Just be cautious of any stakeholders wanting to utilise any of the team metrics without fully understanding the context behind them.
+Meaning that the metrics used should be chosen by the team for team, and if additional metrics on a organisation level are required, then there should be a separation, or at least an agreement in what that is exactly. I mean, nothing wrong with showing off your metrics externally, who knows- the team and other people in the organisation might even start mingling, sharing ideas and having deeper conversations around each others metrics?! Just be cautious of any stakeholders wanting to utilise any of the team metrics without fully understanding the context behind them.
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 _'Managers who don't know how to measure what they want settle for wanting what they can measure.'_- **Russell L. Ackoff**
@@ -114,7 +114,7 @@ An effective metric should be specific enough and not just document the current 
 
 ## Truthful
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-There wouldn't be much point in relying on data output from a system, if the input data wasn't true or accurate. I've found that it can be useful for a team to discuss and agree on how exactly they intend to input data into each of their systems, and then make it part of their team working agreements. That way they can hold each other accountable for any deviation. Sometimes you can't always measure what you want (true metric), so you settle for what you can measure (proxy metric), the important thing is to understand the two. Imagine an organisation that wanted to increase their online presence and be popular across all their social media channels. One metric could be to measure how many followers they get. But it wouldn't be a true metric if a click farm was used to obtain all those followers. The take away from this is to be aware of what is it exactly that you're measuring, and the impact of might occur as a result of choosing it as a metric.
+There wouldn't be much point in relying on data output from a system, if the input data wasn't true or accurate. I've found that it can be useful for a team to discuss and agree on how exactly they intend to input data into each of their systems, and then make it part of their team working agreements. That way they can hold each other accountable for any deviation. Sometimes you can't always measure what you want (true metric), so you settle for what you can measure (proxy metric), the important thing is to understand the two. Imagine an organisation that wanted to increase their online presence and be popular across all their social media channels. One metric could be to measure how many followers they get. But it wouldn't be a true metric if a click farm was used to obtain all those followers. The take away from this is to be aware of what is it exactly that you're measuring, and the impact of what might occur as a result of choosing it as a metric.
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 '_Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes._'- **Charles Goodhart**, or in other words and more simply put by **Marilyn Strathern** '_When a measure becomes a target, it ceases to be a good measure._'
