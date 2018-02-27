@@ -64,10 +64,11 @@ Generally speaking there will be a whole list of different systems that are used
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Deployment Tools** (CodeDeploy, Capistrano, AWS CodeDeploy, Octopus Deploy, Distelli)
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Business Intelligence/Application Monitoring** (NewRelic, LogicMonitor, Datadog, AppsDynamics, BMC Software)
 
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
+Data from each of these systems, on their own can answer simple questions around specific outputs. 
+
 <img src="/assets/images/team-system-data-collection.png" align="middle">
 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-Here are a few examples of how data for team might be used, it can look something like this: Data from each of these systems, on their own can answer simple questions around specific outputs.
 ## Questions Based On Outputs:
 
  - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How often are we getting working software to our target environment?
@@ -75,7 +76,7 @@ Here are a few examples of how data for team might be used, it can look somethin
  - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">What is our current velocity?
  - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we meeting our commitments?
 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">As a whole, having all these systems and the data they produce forms the team's system data collection. Having this collection of data allows the team to group together certain data group samples, enabling them to have conversations around some of the bigger types of questions that are based on outcomes, rather than just outputs.
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">As a whole, having all these systems and the data they produce forms the team's system data collection. Having this collection of data allows the team to group together certain data group samples, enabling them to then have conversations around some of the bigger types of questions that are based on outcomes, rather than just outputs.
 
 ## Questions Based On Outcomes:
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we making our process better?
