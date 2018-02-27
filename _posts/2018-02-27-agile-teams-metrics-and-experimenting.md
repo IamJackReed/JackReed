@@ -83,7 +83,7 @@ Here are a few examples of how data for team might be used, it can look somethin
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we making our product/service better?
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How good are our requirements?
 
-<img src="/JackReed/assets/images/team-system-data-collection-questions.png" align="middle">
+<img src="/assets/images/team-system-data-collection-questions.png" align="middle">
 -
 ## Effective Metrics
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
