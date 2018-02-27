@@ -64,7 +64,7 @@ Generally speaking there will be a whole list of different systems that are used
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Deployment Tools** (CodeDeploy, Capistrano, AWS CodeDeploy, Octopus Deploy, Distelli)
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Business Intelligence/Application Monitoring** (NewRelic, LogicMonitor, Datadog, AppsDynamics, BMC Software)
 
-<img src="/JackReed/assets/images/team-system-data-collection.png" align="middle">
+<img src="/assets/images/team-system-data-collection.png" align="middle">
 -
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Here are a few examples of how data for team might be used, it can look something like this: Data from each of these systems, on their own can answer simple questions around specific outputs.
