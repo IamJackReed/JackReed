@@ -92,7 +92,7 @@ Data from each of these systems, on their own can answer simple questions around
 
 ## Effective Metrics
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-Defining effective and useful metrics can be tricky, and what metrics that might be useful for a team might not necessarily always stay useful overtime. Here are a few important aspects that are proberly worth considering when it comes to choosing and defining a metric:
+Defining effective and useful metrics can be tricky, and what metrics that might be useful for a team might not necessarily always stay useful overtime. Here are a few important aspects that are proberly worth considering when it comes to choosing and defining a metric.
 
 ## Contrast
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
