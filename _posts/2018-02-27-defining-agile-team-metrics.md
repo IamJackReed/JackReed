@@ -63,6 +63,7 @@ Generally speaking there will be a whole list of different systems that are used
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Continuous Integration** (Jenkins, Bamboo, Travis, Github, Circle CI)
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Deployment Tools** (CodeDeploy, Capistrano, AWS CodeDeploy, Octopus Deploy, Distelli)
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Business Intelligence/Application Monitoring** (NewRelic, LogicMonitor, Datadog, AppsDynamics, BMC Software)
+
 <img src="/assets/images/team-system-data-collection.png" align="middle">
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
@@ -81,6 +82,7 @@ Here are a few examples of how data for team might be used, it can look somethin
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we delivering the right things?
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we making our product/service better?
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How good are our requirements?
+
 <img src="/assets/images/team-system-data-collection-questions.png" align="middle">
 
 ## Effective Metrics
