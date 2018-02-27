@@ -63,9 +63,8 @@ Generally speaking there will be a whole list of different systems that are used
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Continuous Integration** (Jenkins, Bamboo, Travis, Github, Circle CI)
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Deployment Tools** (CodeDeploy, Capistrano, AWS CodeDeploy, Octopus Deploy, Distelli)
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Business Intelligence/Application Monitoring** (NewRelic, LogicMonitor, Datadog, AppsDynamics, BMC Software)
-
 <img src="/assets/images/team-system-data-collection.png" align="middle">
--
+
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Here are a few examples of how data for team might be used, it can look something like this: Data from each of these systems, on their own can answer simple questions around specific outputs.
 ## Questions Based On Outputs:
@@ -82,9 +81,8 @@ Here are a few examples of how data for team might be used, it can look somethin
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we delivering the right things?
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Are we making our product/service better?
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">How good are our requirements?
-
 <img src="/assets/images/team-system-data-collection-.png" align="middle">
--
+
 ## Effective Metrics
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Defining an effective and useful metrics can be tricky, and what metrics might be useful for team might not necessarily always stay useful overtime. Here are a few important aspects that are properly worth considering when it comes to choosing and defining a metric:
@@ -93,25 +91,25 @@ Defining an effective and useful metrics can be tricky, and what metrics might b
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 We tend to understand things better when we can compare it to something that we already understand, this helps us form concepts in our mind based on our existing knowledge. An effective metric is one that is comparable to itself overtime, it wouldn't be a good idea for example to compare team velocity from one team with another team.
 
-## Simplicity
+## Simplicity
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Using too many metrics will quickly over complicate things. Less can often be more when it comes to maximising metrics, the easier it is for the team to understand what behavioural changes they can do to help influence that metric the better.
 
-## Affordable
+## Affordable
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 What are the associated costs In gathering metrics? It may be difficult to answer this exactly without measuring it, as we could be referring to '_costs_', in terms of the amount work effort spent on gathering metric data, or '_costs_', could also derive from paid software tools, like the software that is actually gathering the data for us. Therefore, as a rule of thumb- would it be sensible to say that, the possible value of improvement that can be gained from a metric shouldn't exceed the costs of collecting it.
 
-## Team Level
+## Team Level
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 Meaning that the metrics used should be chosen by the team for team, and if additional metrics on a organisation level are required, then there should be a separation, or at least an agreement in what that is exactly. I mean, nothing wrong with showing off your metrics externally, it might even start a conversation with people outside the team!?! Just be cautious of any stakeholders wanting to utilise any of the team metrics without fully understanding the context behind them.
 
 _Managers who don't know how to measure what they want settle for wanting what they can measure._- **Russell L. Ackoff**
 
-## Actionable
+## Actionable
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 An effective metric should be specific enough and not just document the current state of the existing product or service, but offer insights into understanding where the team are, so that they can have conversations around where or what to do next, I mean, why else measure things that you can't do anything about?
 
-## Truthful
+## Truthful
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
 There wouldn't be much point in relying on data output from a system, if the input data wasn't true or accurate. I've found that it can be useful for a team to discuss and agree on how exactly they intend to input data into each of their systems, and then make it part of their team working agreements. That way they can hold each other accountable for any deviation. Sometimes you can't always measure what you want (true metric), so you settle for what you can measure (proxy metric), the important thing is to understand the two. Imagine an organisation that wanted to increase their online presence and be popular across all their social media channels. One metric could be to measure how many followers they get. But it wouldn't be a true metric if a click farm was used to obtain all those followers. The take away from this is to be aware of what is it exactly that you're measuring, and the impact of might occur as a result of choosing it as a metric.
 
