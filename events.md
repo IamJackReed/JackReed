@@ -3,7 +3,6 @@ layout: page
 title: Events
 permalink: /events/
 ---
-
 # Upcoming Events
 - 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Scrum Alliance Global Gathering** *8th-10th October, London* - Attending as a participant
