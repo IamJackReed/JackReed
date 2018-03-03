@@ -7,7 +7,6 @@ permalink: /about-me/
 <p style="text-align:center;"><img src="/assets/images/about-me-profile.png"></p>
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">
-
 An Agile enthusiast with a particular interest in Scrum and other practices such as XP, Kanban and Lean-software.
 
 As a Scrum Master at the team level, I focus on helping teams to become self-organised whereby leadership is treated as an attitude, and I encourage teams to strive for continuous improvement and to run small, high-value experiments (even when things are going well).
