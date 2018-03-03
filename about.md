@@ -3,7 +3,7 @@ layout: page
 title: ""
 permalink: /about/
 --- 
-<center># About</center>
+# About
 
 <p style="text-align:center;"><img src="/assets/images/about-me-profile.png"></p>
 
