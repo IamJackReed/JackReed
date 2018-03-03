@@ -22,8 +22,11 @@ layout: default
             </a>
             &nbsp;&nbsp;·&nbsp;&nbsp;
         {% endif %}
+       {% endfor %}
       <a href={{ "/about/" | prepend: site.baseurl }}>About</a>
-      {% endfor %}
+            &nbsp;&nbsp;·&nbsp;&nbsp;
+        {% endif %}
+       {% endfor %}
       <a href={{ "/events/" | prepend: site.baseurl }}>Events</a>                  
     </div>
 </header>
