@@ -1,10 +1,8 @@
 ---
 layout: page
-title: ""
+title: "About"
 permalink: /about/
 --- 
-# About
-
 <p style="text-align:right;"><img src="/assets/images/about-me-profile.png"></p>
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">
