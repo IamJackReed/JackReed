@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title-align: "About"
 permalink: /about/
 --- 
 <p style="text-align:center;"><img src="/assets/images/about-me-profile.png"></p>
