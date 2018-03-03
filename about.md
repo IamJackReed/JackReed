@@ -1,11 +1,8 @@
 ---
-layout: page
-title: ""
+layout: post
+title: "About"
 permalink: /about/
 ---
-<span style="color:#00000; font-family: 'open sans'; align: center; font-size: 1em; font-size: 40px; font-weight: 400; hyphens: none;">
-About Me
-
 <p style="text-align:center;"><img src="/assets/images/about-me-profile.png"></p>
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">
