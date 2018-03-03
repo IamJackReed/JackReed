@@ -5,7 +5,7 @@ permalink: /about/
 --- 
 # About
 
-<p style="text-align:center;"><img src="/assets/images/about-me-profile.png"></p>
+<p style="text-align:left;"><img src="/assets/images/about-me-profile.png"></p>
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">
 An Agile enthusiast with a particular interest in Scrum and other practices such as XP, Kanban and Lean-software.
