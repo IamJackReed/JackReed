@@ -137,4 +137,4 @@ to Lean Office - by ['Andrea Chiarini'](https://www.springer.com/gb/book/9788847
 Thanks if you've made it this far down the page, perhaps you've skipped it all- in any case, if you have read this and found any of it thought provoking, dare I say even useful at all, or know someone that might? Then feel free to share.
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">
-Do you have anything to add or share? Found a grammatical error?! Share your thoughts, let me know in the comments below or hit me up other social platforms.
+Do you have anything to add or share? Found a grammatical error?! Share your thoughts, let me know in the comments below or hit me up on other social platforms.
