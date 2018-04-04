@@ -2,8 +2,8 @@
 layout: page
 title: Events
 permalink: /events/
-image: /assets/article_images/
-image2: /assets/article_images
+image: /assets/images/events.jpg
+image2: /assets/images/events-mobile.jpg
 ---
 # Upcoming Events
 - 
