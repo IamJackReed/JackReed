@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Events
+title: 
 permalink: /events/
 image: /assets/images/events.jpg
 image2: /assets/images/events-mobile.jpg
