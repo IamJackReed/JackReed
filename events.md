@@ -11,10 +11,7 @@ permalink: /events/
 - 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Adventures with Agile - Creating an Environment for Change** *25th April, London* - Attending as a participant
 - 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Speak Truth to Power with Tobias Mayer** *4th April, London* - Attending as a participant
-- 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Scrum Master Clinic** *3rd April, London* – Attending as a participant
-
 
 # Past Events - 2018
 - 
