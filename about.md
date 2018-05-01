@@ -6,7 +6,7 @@ permalink: /about/
 <p style="text-align:center;"><img src="/assets/images/about-me-profile.png"></p>
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">
-An **Agile** enthusiast with a passion for **XP**, **Kanban**, **Lean-software** and a particular interest in **Scrum**. Focusing on **Scrum**, not as a methodology, nor as a tool or practice, but as a framework to help teams find better ways of working, to deliver better products or services and to help surface disfunction within teams and organisations.
+An **Agile** enthusiast with a passion for **XP**, **Kanban**, **Lean-software** and a particular interest in **Scrum**. Focusing on **Scrum**, not as a methodology, nor as a tool or practice, but as a framework to help teams find better ways of working, to deliver better products or services and to help surface dysfunctions within teams and organisations.
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">
 As a **Scrum Master** at the team level, I focus on helping teams to become self-organised whereby leadership is treated as an attitude. I encourage teams to strive for continuous improvement and to run small, high-value experiments (even when things are going well).
