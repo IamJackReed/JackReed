@@ -13,8 +13,8 @@ permalink: /events/
 - 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens:
 none;">**Scrum Master Clinic** *1st May, London* – Attended as a participant
--
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens:
+
+- <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens:
 none;">**Storytelling in the Workplace with Tobias Mayer** *30th April, London* – Attended as a participant
 -
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens:
