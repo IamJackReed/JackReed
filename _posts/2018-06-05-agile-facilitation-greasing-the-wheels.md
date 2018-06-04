@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Agile Facilitation | Greasing The Wheels"
-date: 2018-06-05 10:00:00
+date: 2018-06-04 10:00:00
 categories:
 tags:
 image: /assets/article_images/2018-06-05-agile-facilitation-greasing-the-wheels/agile-facilitation-greasing-the-wheels.JPG
