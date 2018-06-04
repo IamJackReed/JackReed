@@ -4,8 +4,8 @@ title:  "Agile Facilitation | Greasing The Wheels"
 date: 2018-06-04 10:00:00
 categories:
 tags:
-image: /assets/article_images/2018-06-05-agile-facilitation/greasing-the-wheels.JPG
-image2: /assets/article_images/2018-06-05-agile-facilitation/greasing-the-wheels-mobile.JPG
+image: /assets/article_images/2018-06-05-agile-facilitation-greasing-the-wheels.JPG
+image2: /assets/article_images/2018-06-05-agile-facilitation-greasing-the-wheels-mobile.JPG
 ---
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">The ability to effectively facilitate groups of individuals that are all fully engaged for the purpose of making decisions collaboratively, seems to be a fundamental skill for a Scrum Master and is a key element to the success of building any type of functional, high performing Agile team - '_why is facilitation considered to be so important for a Scrum Master?_', '_what are some of the challenges found in facilitating?_', And '_what might help with these challenges?_', are all questions that I'll be exploring in this post.
