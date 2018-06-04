@@ -7,7 +7,10 @@ tags:
 image: /assets/article_images/2018-06-05-agile-facilitation-greasing-the-wheels/agile-facilitation-greasing-the-wheels.JPG
 image2: /assets/article_images/2018-06-05-agile-facilitation-greasing-the-wheels/agile-facilitation-greasing-the-wheels-mobile.JPG
 ---
-
+<style>
+body {
+  text-align: justify;
+  
 <span style="color:#00000; font-family: 'open sans'; text-align: 'justify'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">The ability to effectively facilitate groups of individuals that are all fully engaged for the purpose of making decisions collaboratively, seems to be a fundamental skill for a Scrum Master and is a key element to the success of building any type of functional, high performing Agile team - _why is facilitation considered to be so important for a Scrum Master?_, _what are some of the challenges found in facilitating?_, And _what might help with these challenges?_, are all questions that I'll be exploring in this post.
 
 # Facilitation Isn't Easy
@@ -160,3 +163,5 @@ But I find interesting about the '_Scrum Master facilitation is NOT solely about
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Thanks if you’ve made it this far down the page, perhaps you’ve skipped it all- in any case, if you have read this and found any of it thought-provoking, dare I say even useful at all, or know someone that might? Then feel free to share.
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">Do you have anything to add or share? Share your thoughts, let me know in the comments below or give me a shout on other social platforms.
+}
+</style>
