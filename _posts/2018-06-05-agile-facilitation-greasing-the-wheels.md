@@ -5,7 +5,7 @@ date: 2018-06-04 10:00:00
 categories:
 tags:
 image: /assets/article_images/2018-06-05-agile-facilitation-greasing-the-wheels/agile-facilitation-greasing-the-wheels.JPG
-image2: /assets/article_images/2018-06-05-agile-facilitation-greasing-the-wheels/agile-facilitation-greasing-the-wheelss-mobile.JPG
+image2: /assets/article_images/2018-06-05-agile-facilitation-greasing-the-wheels/agile-facilitation-greasing-the-wheels-mobile.JPG
 ---
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">The ability to effectively facilitate groups of individuals that are all fully engaged for the purpose of making decisions collaboratively, seems to be a fundamental skill for a Scrum Master and is a key element to the success of building any type of functional, high performing Agile team - _why is facilitation considered to be so important for a Scrum Master?_, _what are some of the challenges found in facilitating?_, And _what might help with these challenges?_, are all questions that I'll be exploring in this post.
@@ -88,13 +88,9 @@ But I find interesting about the '_Scrum Master facilitation is NOT solely about
 
 # Facilitating Scrum events
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">For some great examples of the type of characteristics that each Scrum event should have, I like what '_**Barry Overeem**_' offers in his post [The Scrum Master As A Facilitator](http://www.barryovereem.com/the-scrum-master-as-a-facilitator/). He describes the characteristics of well-facilitated Scrum events:
-
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Daily Scrum** contains an atmosphere where healthy peer pressure occurs on delivery quality, commitment and addressing impediments;
-
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Sprint Planning** is all about collaboration between the Product Owner and the Development team and has a strong focus on delivering business value. All team members understand the work and jointly agree to achieve the sprint goal;
-
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Sprint Review** is an energising event in which the Scrum team, sponsors and stakeholders together inspect the product increment and backlog. But also retrospect their collaboration and how this can be improved. They act as one team with the same purpose, there are no barriers between ‘client’ and ‘supplier’;
-
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Retrospective** is done in a safe atmosphere in which ‘the elephant in the room’ is addressed, discussed and turned into actionable improvements that the team members agree upon realising in the next sprint.
 
 # Psychological Environment
