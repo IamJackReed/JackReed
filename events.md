@@ -7,7 +7,7 @@ permalink: /events/
 - 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Scrum Alliance Global Gathering** *8th-10th October, London* - Attending as a participant
 - 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Why of Scrum half-day workshop** *6th June, London* - Attending as a participant
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Why of Scrum half-day workshop** *27th June, London* - Attending as a participant
 
 # Past Events - 2018
 - 
