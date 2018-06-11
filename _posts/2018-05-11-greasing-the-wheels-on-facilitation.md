@@ -116,8 +116,10 @@ image2: /assets/article_images/2018-05-11-greasing-the-wheels-on-facilitation/fa
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">**Lack of Commitment**
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">**Avoidance of Accountability**
 - <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">**Inattention to Results**
-# 言語の問題 (Language Difficulties)
+
+# Language Difficulties (言語の問題)
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">There can be impediments associated with languages difficulties, regional dialects or proficiency in a certain language. Using jargon or slang words can sometimes be confusing for some people due to generation gaps. Not having enough common experiences can also limit somebody's understanding of a discussion, especially if there are lot of stories or examples that are frequently being used to convey information.
+
 # Conclusion
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">Being able to work as a team successfully will often come down to how well individuals on that team respond to the methods that the team are using to work together- these methods ideally should be reviewed and evaluated by the team regularly. To avoid biases and encourage engagement from everyone on the team to make effective group decisions, having someone in neutral position to effectively facilitate this, helps ensure a smooth process and generally a much better outcome.
 
