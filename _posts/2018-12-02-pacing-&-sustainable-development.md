@@ -20,7 +20,7 @@ image2: /assets/article_images/2018-12-02-pacing-&-sustainable-development/susta
 # Quality of Performance
 <span style="color:#00000; text-align: justify; font-family: 'open sans'; text-align: 'justify'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">This ties in with sustainable development. When a team are under pressure to deliver something quickly, and they fall behind, then they can be tempted to cut corners. Teams that feel that they have the heat under their feet and don't have enough time they need, when it comes to them choosing between a safe route or a more experimental route, they play it safe almost every time. This can potentially hinder innovation and can produce less than desirable results, it can be seen when a team’s Sprint length of a team is too short. Plus, there is also a good argument that maintaining a sustainable pace is a sensible approach when it comes to doing complex work, such as, software development. As mentioned it’s an important consideration for the well-being of the people on a team including the quality of their performance - in fact, there has been studies around the quality of performance that suggest that there is be a sweet spot to be found when working with complex work.
 
- **Yerkes–Dodson law**
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">**Yerkes–Dodson law**
 
 ![](/assets/article_images/2018-12-02-pacing-&-sustainable-development/yerkes–dodson-law.png)
       
