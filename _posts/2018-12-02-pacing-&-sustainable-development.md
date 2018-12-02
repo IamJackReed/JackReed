@@ -22,7 +22,8 @@ image2: /assets/article_images/2018-12-02-pacing-&-sustainable-development/susta
 
  **Yerkes–Dodson law**
 
-
+![](/assets/article_images/2018-12-02-pacing-&-sustainable-development/yerkes–dodson-law.png)
+      
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">_Robert Yerkes_ and _John Dillingham Dodson_, perhaps best known for describing Yerkes–Dodson law. Their study is based on observation and experience and it maps the relationship between the quality of performance of an individual, and their physiological or mental arousal. The results from the study suggests that the quality of performance increases with arousal, but only up to a point, then performance decreases as levels of arousal become too much for the individual to handle. It seems that this typically occurs when working on complex tasks, such as those found in software development. Teams should work at a pace that’s suitable for them given their abilities and context - being able to work at a sustainable pace helps ensure that a team has enough time to plan, think and rest, to deliver a constant steady flow of value to the users.
 
