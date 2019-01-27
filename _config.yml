@@ -48,7 +48,7 @@ social:
     share_title:
     share_link:
 
- - icon:	instagram
+  - icon:	instagram
     url:  https://www.instagram.com/jack.ross.reed
     desc: Connect with me on instagram
     share_url: https://www.instagram.com/share
@@ -56,11 +56,11 @@ social:
     share_link:
     
   #- icon:	facebook
-    url: https://facebook.com/jack.ross.reed
-    desc: Connect with me on facebook
-    share_url: https://www.facebook.com/sharer.php
-    share_title: ?t=
-    share_link: "&amp;u="
+    #url: https://facebook.com/jack.ross.reed
+    #desc: Connect with me on facebook
+    #share_url: https://www.facebook.com/sharer.php
+    #share_title: ?t=
+    #share_link: "&amp;u="
 
   - icon:	github
     url: https://github.com/IamJackReed
