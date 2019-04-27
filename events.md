@@ -5,6 +5,10 @@ permalink: /events/
 ---
 # Upcoming Events 2019
 - 
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Global Scrum Gathering** *28th - 30th  October, Vienna* - Attending as a participant
+  
+# Past Events 2019
+- 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Collaborative Product Owner** *26th March, London* - Attending as a participant
 
 # Past Events - 2018
