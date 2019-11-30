@@ -7,7 +7,7 @@ permalink: /events/
 - 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens:
 none;">**Gentle, Cooperative Facilitation with Francis Laleman** *21st - 22nd May, London* - Attending as a participant
-- 
+-
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens:
 none;">**The Scrum Exchange** *8th May, London* - Attending as a participant
 -
