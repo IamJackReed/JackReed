@@ -3,11 +3,24 @@ layout: page
 title: Events
 permalink: /events/
 ---
-# Upcoming Events 2019
+# Upcoming Events 2020
 - 
-<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Global Scrum Gathering** *28th - 30th  October, Vienna* - Attended as a participant
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Gentle, Cooperative Facilitation with Francis Laleman** *21st - 22nd May, London* - Attending as a participant
+- 
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Scrum Exchange** *8th May, London* - Attending as a participant
+-
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Citizen Leadership** *12th - 13th February, London* - Attending as a participant
+-
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Facilitator Labs** *8th February, 42 Acres Shoreditch, London* - Attending as a participant  
+ -
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Facilitator Labs** *5th February, 42 Acres Shoreditch, London* - Attending as a participant  
+
   
 # Past Events 2019
+- 
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Scrum Exchange** *29th November, London* - Attended as a participant
+- 
+<span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Global Scrum Gathering** *28th - 30th  October, Vienna* - Attended as a participant
 - 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**The Collaborative Product Owner** *26th March, London* - Attended as a participant
 
