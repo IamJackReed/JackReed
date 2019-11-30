@@ -4,6 +4,7 @@ title: Events
 permalink: /events/
 ---
 # Upcoming Events 2020
+
 - 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Gentle, Cooperative Facilitation with Francis Laleman** *21st - 22nd May, London* - Attending as a participant
 - 
@@ -12,7 +13,7 @@ permalink: /events/
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Citizen Leadership** *12th - 13th February, London* - Attending as a participant
 -
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Facilitator Labs** *8th February, 42 Acres Shoreditch, London* - Attending as a participant  
- -
+-
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Facilitator Labs** *5th February, 42 Acres Shoreditch, London* - Attending as a participant  
 
   
