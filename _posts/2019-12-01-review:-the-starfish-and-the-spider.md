@@ -4,8 +4,8 @@ title:  "Review: The Starfish and the Spider"
 date: 2019-12-01 17:47:00
 categories:
 tags:
-image: /assets/article_images/2018-12-02-pacing-&-sustainable-development/sustainable.jpg
-image2: /assets/article_images/2018-12-02-pacing-&-sustainable-development/sustainable-mobile.jpg
+image: /assets/article_images/2019-12-01-review-the-starfish-and-the-spider/starfish.jpg
+image2: /assets/article_images/2019-12-01-review-the-starfish-and-the-spider/starfish-mobile.jpg
 ---
 
 <span style="color:#00000; text-align: justify; font-family: 'open sans'; text-align: 'justify'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">**The Starfish and the Spider:** _the unstoppable power of leaderless organisations / Orid Brafman and Rod A. Beckstrom_.
