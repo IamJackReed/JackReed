@@ -8,7 +8,7 @@ image: /assets/article_images/2019-12-01-review-the-starfish-and-the-spider/star
 image2: /assets/article_images/2019-12-01-review-the-starfish-and-the-spider/starfish-mobile.jpg
 ---
 
-<span style="color:#00000; text-align: justify; font-family: 'open sans'; text-align: 'justify'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">**The Starfish and the Spider:** _the unstoppable power of leaderless organisations / Orid Brafman and Rod A. Beckstrom_.
+<span style="color:#00000; text-align: justify; font-family: 'open sans'; text-align: 'justify'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">**The Starfish and the Spider:** _the unstoppable power of leaderless organisations_ - by Orid Brafman and Rod A. Beckstrom_.
 
 <span style="color:#00000; text-align: justify; font-family: 'open sans'; text-align: 'justify'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">The Starfish and the Spider takes a looks at the rise and fall of organisations due to their structural differences, and how the choice of different leadership styles play a part in an organisations longevity. Authors, Orid Brafman and Rod A. Beckstrom have done an incredible job at exploring centralised and decentralised organisations and not just from a modern day perspective, in fact the book kicks-off with a rather interesting tale involving MCM entertainment company, Spanish conquistadors and the Apaches.
 
