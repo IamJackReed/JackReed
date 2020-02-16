@@ -15,4 +15,4 @@ As a **Scrum Master** at the team level, I focus on coaching teams on self-org
 Supporting **Product Owners** in their role, by enhancing the visualisation of work, technical debt and progress through transparency, increasing the ability to identify maximum product value.
 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 18px; font-weight: 200; hyphens: none;">
-From an **Organisation** perspective, I help support management with their strategic initiatives whilst promoting Scrum on wider scale. Demonstrating how Scrum is designed to optimise flexibility, creativity, and productivity.
+From an **Organisation** perspective, I help support management with their strategic initiatives whilst promoting Scrum on a wider scale. Demonstrating how Scrum is designed to optimise flexibility, creativity, and productivity.
