@@ -4,7 +4,7 @@ title: Events
 permalink: /events/
 ---
 # Upcoming Events 2020
--
+- 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Facilitator Lab with Tobias Mayer and Noel Warnell** *8th February, 42 Acres Shoreditch, London* - Attended as a participant
 - 
 <span style="color:#00000; font-family: 'open sans'; font-size: 1em; font-size: 20px; font-weight: 200; hyphens: none;">**Professional Scrum with Kanban (PSK) with Jose Casal** *6th / 7th February, Actineo Consulting LLP - London* 
