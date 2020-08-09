@@ -29,7 +29,7 @@ twitter_handle: '@jackrossreed'
 
 #fill in disqus shortname to use disqus
 disqus: jackreed
-    
+
 google_analytics: UA-122085547-1
 
 # social icons and sharing options
@@ -40,9 +40,9 @@ social:
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
-    
+
   - icon:	linkedin
-    url:  https://www.linkedin.com/in/jrossreed
+    url:  https://www.linkedin.com/in/iamjackreed
     desc: Connect with me on linkedin
     share_url: https://www.linkedin.com/cws/share?url=
     share_title:
@@ -54,7 +54,7 @@ social:
     share_url: https://www.instagram.com/share
     share_title:
     share_link:
-    
+
   #- icon:	facebook
     #url: https://facebook.com/jack.ross.reed
     #desc: Connect with me on facebook
@@ -75,4 +75,3 @@ social:
     #share_url:
     #share_title:
     #share_link:
-    
